@@ -1,0 +1,6 @@
+@GeneratorHaselASP_HostAddress = http://localhost:5003
+
+GET {{GeneratorHaselASP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
